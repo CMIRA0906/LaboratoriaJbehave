@@ -1,0 +1,16 @@
+*.metadata
+
+*.recommenders
+
+*RemoteSystemsTempFiles
+
+*/bin
+
+*/test-output
+
+*.settings
+
+*/target
+*.project
+/target/
+*.log
